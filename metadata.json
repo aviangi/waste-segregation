@@ -1,0 +1,7 @@
+{
+  "name": "Waste Sorter AI",
+  "description": "A simple, mobile-responsive web application that uses the client's webcam to identify whether an object is plastic or non-plastic waste in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
